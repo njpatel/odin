@@ -132,6 +132,13 @@ ul.social_link  {
 
 h2, h3, h4 {
     color: #f55567;
+    margin-top: 2em;
+}
+
+h4 {
+    color: #2e9fff;
+    margin-top: 2em;
+    font-weight: 500;
 }
 
 h1, h2, h3, .page-title {
@@ -140,4 +147,16 @@ h1, h2, h3, .page-title {
 
 .post-title a{
     color: #f55567;
+}
+
+.post-content code {
+    font-size: 0.85em;
+}
+
+.img-caption {
+    font-size: 0.8em;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: #999;
+    margin-top: -40px;
 }
